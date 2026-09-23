@@ -1,3 +1,4 @@
+[![Continuous Integration](https://github.com/Darknet500/ase-labs/actions/workflows/ci.yml/badge.svg)](https://github.com/Darknet500/ase-labs/actions/workflows/ci.yml)
 # Estimating Text Similarity by Shingling
 
 **Authors:** Ármin Zavada, Kristóf Marussy
